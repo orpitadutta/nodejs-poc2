@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-poc2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orpitadutta/nodejs-poc2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orpitadutta/nodejs-poc2/issues"
+  },
+  "homepage": "https://github.com/orpitadutta/nodejs-poc2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1"
+  }
+}
