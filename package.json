@@ -18,7 +18,7 @@
   "homepage": "https://github.com/orpitadutta/nodejs-poc2#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-session": "^1.16.1"
   }
 }
